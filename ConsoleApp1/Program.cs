@@ -11,3 +11,6 @@ Console.WriteLine(A);
 Console.WriteLine(B);
 Console.WriteLine(C);
 
+Console.WriteLine("wesh alors")
+    
+    
