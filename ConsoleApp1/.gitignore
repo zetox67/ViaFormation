@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ConsoleApp1/v17/.suo
+/ConsoleApp1/obj/Release/net6.0
+*.sqlite
+/.vs/ProjectEvaluation/consoleapp1.projects.v6.1
+/.vs/ProjectEvaluation/consoleapp1.metadata.v6.1
+*.vsidx
+/.vs/ConsoleApp1/FileContentIndex/5c2f47b8-7f12-445d-aaac-84a5efdf3c1e.vsidx
+*.wsuo
